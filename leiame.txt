@@ -1,0 +1,19 @@
+Contas existentes no site
+
+Login: ana
+Senha: 123
+Ana Paula Garcia
+anapaula@gmail.com
+750.563.736-30
+
+Login: fabio
+Senha: 123
+Fabio Destro
+fbfdestro@gmail.com
+622.103.957-63
+
+Login: julio
+Senha: 123
+Julio Cesar
+julio@gmail.com
+171.744.167-05

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DownloadBanker</string>
+    <string name="lblUser">Usúario</string>
+    <string name="lblPass">Senha</string>
+    <string name="lblBtnEntrar">Entrar</string>
+    <string name="title_activity_carteira">CarteiraActivity</string>
+    <string name="title_activity_wallet">WalletActivity</string>
+    <string name="lblNomeUser">"Nome: "</string>
+    <string name="lblValorCarteira">R$ 00</string>
+    <string name="lblBtnSair">Sair</string>
+    <string name="lblBtnEditar">Editar conta</string>
+    <string name="title_activity_editar_conta">EditarContaActivity</string>
+    <string name="lblLogin">Login:</string>
+    <string name="lblNome">Nome:</string>
+    <string name="lblEmail">Email:</string>
+    <string name="lblCpf">CPF:</string>
+    <string name="lblMasculino">Masculino</string>
+    <string name="lblFeminino">Feminino</string>
+    <string name="lblSexo">Sexo:</string>
+    <string name="lblBtnCancelar">Cancelar</string>
+    <string name="lblBtnSalvar">Salvar</string>
+    <string name="lblSaldo">Saldo:</string>
+    <string name="lblNomeV">Nome</string>
+    <string name="txtScan">Adicionar Fundos a Carteira</string>
+</resources>

@@ -1,0 +1,256 @@
+drop database DownloadBankerCripto;
+
+create database DownloadBankerCripto;
+
+use DownloadBankerCripto;
+
+create table usuario 
+(
+id_user int auto_increment not null,
+login_user text not null,
+pass_user text not null,
+nome_user text not null,
+email_user text not null,
+cpf_user text not null,
+sexo_user text not null,
+status_user text not null,
+
+primary key (id_user)
+);
+
+create table funcionario
+(
+id_func int auto_increment not null,	  
+login_func text not null,  
+pass_func text not null,
+pass1_func text not null,
+pass2_func text not null,
+pass3_func text not null,	  
+nome1_func text not null,
+nome2_func text not null,
+dataNasc_func text not null,
+dataCad_func text not null,
+dataRecad_func text not null,
+tel_func text not null,
+email_func text not null,
+cpf_func text not null,
+sexo_func text not null,
+cep_func text not null, 
+bairro_func text not null, 
+logradouro_func text not null,
+numero_func text not null,
+complemento_func text not null,
+sal_func text not null,
+perg_func text not null,
+resp_func text not null,
+acesso1_func text not null,
+status_func text not null,
+
+primary key (id_func)
+
+);
+
+
+create table administrador
+(
+id_admin int auto_increment not null,
+login_admin text not null,
+pass_admin text not null,
+pass1_admin text not null,
+pass2_admin text not null,
+pass3_admin text not null,	 
+nome1_admin text not null,
+nome2_admin text not null,
+cpf_admin text not null,
+email_admin text not null,
+perg_admin text not null,
+resp_admin text not null,
+dataCad_admin text not null,
+dataRecad_admin text not null,
+acesso1_admin text not null,
+status_admin text not null,
+
+primary key (id_admin)
+);
+
+
+
+create table categoria
+(
+id_cat int auto_increment not null,
+nome_cat text not null,
+
+primary key (id_cat)
+
+);
+
+create table genero
+(
+id_genero int auto_increment not null,
+nome_genero text not null,
+
+primary key (id_genero) 
+);
+
+create table produto
+(
+id_prod int auto_increment not null,
+id_user int not null,
+nome_prod text not null,
+valor_prod text not null,
+sobre_prod text not null,
+contem_prod text not null,
+imagem_prod text not null,
+arquivo_prod text not null,
+status_prod text not null,
+tamanho_prod text not null,
+
+primary key (id_prod),
+
+foreign key(id_user) references usuario(id_user)
+);
+
+
+create table venda
+(
+id_venda int auto_increment not null,
+id_user int not null,
+valor_venda text not null,
+data_venda text not null,
+down_venda text not null,
+
+primary key (id_venda),
+
+foreign key(id_user) references usuario(id_user)
+);
+
+create table prodVenda
+(
+id_venda int not null,
+id_prod int not null,
+
+primary key(id_venda,id_prod),
+
+foreign key(id_venda) references venda(id_venda),
+foreign key(id_prod) references produto(id_prod)
+);
+
+create table tipo
+(
+id_tipo int auto_increment not null,
+nome_tipo text not null,
+
+primary key (id_tipo)
+);
+
+create table tipoCategoria
+(
+id_tipo int not null,
+id_cat int not null,
+
+primary key(id_tipo,id_cat),
+
+foreign key(id_tipo) references tipo(id_tipo),
+foreign key(id_cat) references categoria(id_cat)
+);
+
+create table categoriaGenero
+(
+id_cat int not null,
+id_genero int not null,
+
+primary key(id_cat,id_genero),
+
+foreign key(id_cat) references categoria(id_cat),
+foreign key(id_genero) references genero(id_genero)
+);
+
+create table prodTipo
+(
+id_tipo int not null,
+id_prod int not null,
+
+primary key(id_tipo,id_prod),
+
+foreign key(id_tipo) references tipo(id_tipo),
+foreign key(id_prod) references produto(id_prod)
+);
+
+create table tipotransacao
+(
+id_tipotransacao int auto_increment not null,
+nome_tipo text not null,
+
+primary key(id_tipotransacao)
+);
+
+
+create table transacao
+(
+id_transacao int auto_increment not null,
+id_user int not null,
+id_tipoTransacao int not null,
+valor_transacao text not null,
+data_transacao text not null,
+
+primary key(id_transacao),
+foreign key(id_user) references usuario(id_user),
+foreign key(id_tipotransacao) references tipoTransacao(id_tipotransacao)
+);
+
+create table inicializacoes 
+(
+cod_inicializacoes int(10) auto_increment not null,
+num_inicializacoes text not null,
+
+primary key (cod_inicializacoes)
+);
+
+create table auditoriaA
+(
+    id_audA int auto_increment not null,
+    data_audA text not null,
+    hora_audA text not null,
+    id_admin int not null,
+    acao_audA text not null, 
+    desc_audA text not null,
+ 
+    foreign key (id_admin)references administrador(id_admin),
+    primary key(id_audA)
+);
+
+create table auditoriaF
+(
+    id_audF int auto_increment not null,
+    data_audF text not null,
+    hora_audF text not null,
+    id_func int not null,
+    acao_audF text not null, 
+    desc_audF text not null, 
+
+    foreign key (id_func)references funcionario(id_func),
+    primary key(id_audF)
+);
+
+create table auditoriaU
+(
+    id_audU int auto_increment not null,
+    data_audU text not null,
+    hora_audU text not null,
+    id_user int not null,
+    acao_audU text not null, 
+    desc_audU text not null, 
+
+    foreign key (id_user)references usuario(id_user),
+    primary key(id_audU)
+);
+
+create table qrcode
+(
+id_qr int auto_increment not null,
+valor_qr text not null,
+status_qr int(1) not null,
+
+primary key (id_qr)
+
+);

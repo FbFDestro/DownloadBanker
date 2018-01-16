@@ -1,0 +1,959 @@
+﻿@font-face {
+	font-family: "Nexa";
+	src: url("fonts/NexaLight.otf");
+}
+@font-face {
+	font-family: "NexaB";
+	src: url("fonts/NexaBold.otf");
+}
+
+
+
+html{
+
+	background-color: #fff;
+	font-family: Nexa;
+	font-size: 12px;
+}
+
+a {
+	-webkit-transition: color 1s;
+	transition: color 1s;
+}
+	
+a:hover{
+	-webkit-transition: color 1s;
+	transition: color 1s;
+}
+
+header{
+	background-color: #f0f0f0;
+	height: 75px;
+	border-bottom: 2px solid #f0082e;
+	width: 100%;
+    opacity:0.9;
+}
+
+#logo{
+	float: left;
+	margin-top: 15px;
+	-webkit-transition: opacity 1s;
+	transition: opacity 1s;
+}
+
+#logo:hover{
+	opacity: 0.6;
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+
+
+
+nav ul{
+	float:right;
+	list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+nav li{
+	display: inline;
+}
+
+nav li a{
+	border-right: 1px solid #ccc;
+	padding: 26px 18px;
+	font-family: NexaB;
+	text-transform: uppercase;
+	color: #515151;
+	font-size: 17px;
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+nav li a:hover{
+opacity: 0.5;
+-webkit-transition: 1s;
+	transition: 1s;
+}
+
+.carrinho{
+	opacity: 0.8;
+}
+
+.pesq{
+    padding: 28px 18px;
+    text-transform: uppercase;
+    color: #515151;
+    font-size: 17px;
+    margin-left: 89px;
+    margin-top: -58px;
+    
+
+}
+
+ul.uk-nav.uk-nav-dropdown.linkE a {
+    margin-left:0;
+
+}
+
+ul .uk-nav a {
+    border-right: 0 !important;
+    font-size: 14px;
+}
+
+nav hr{
+	margin: 3px 18px;
+}
+
+.alerta{
+    margin-top: 10px;
+    font-family: NexaB;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+#pesquisaBar{
+	margin-top: 10px;
+}
+
+#pesquisaBar select{
+	padding: 8px;
+	border: solid 1px #ccc;
+	font-family: Nexa;
+	color: #515151;
+	text-transform: uppercase;
+	font-size: 12px;
+	-webkit-transition:border 1s;
+	transition:border 1s;
+}
+#pesquisaBar option{
+	padding: 5px 10px;
+}
+#pesquisaBar select:focus{
+	border: 1px solid #f0082e;
+	outline: 0 none;
+	-webkit-transition: border 1s;
+	transition: border 1s;
+}
+#pesquisaBar input[type="text"]{
+	padding: 8px;
+	font-family: Nexa;
+	text-transform: uppercase;
+	font-size: 14px;
+	border: solid 1px #ccc;
+	-webkit-transition:border 1s;
+	transition:border 1s;
+
+}
+#pesquisaBar input[type="text"]:focus{
+	border: 1px solid #f0082e;
+	outline: 0 none;
+	-webkit-transition: border 1s;
+	transition: border 1s;
+}
+
+#pesquisaBar input[type="submit"]{
+	background-color: #FFF;
+	border: 1px solid #ccc;
+	font-family: NexaB;
+	font-size: 14px;
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+#pesquisaBar input[type="submit"]:hover{
+	background-color: #f0f0f0;
+	border: 1px solid #ccc;
+	color: #f0082e;
+	font-family: NexaB;
+	font-size: 14px;
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+
+
+/*
+    Inicio páginas inteiras
+*/
+
+.tituloEsquerdaI h2, .tituloDireitaI h2 {
+    padding-left: 35px;
+    font-size: 20px;
+    font-family: NexaB;
+    text-transform: uppercase;
+    border-bottom: 3px solid;
+}
+.tituloDireitaI h2{
+    border-color: #f0082e;
+    color: #f0082e;
+}
+
+/*
+    Fim páginas inteiras
+*/
+
+
+
+
+/*
+    Inicio páginas divididas em 2
+*/
+
+#boxGeral{
+    margin-top:20px
+}
+#boxGeral h2{
+    padding-left: 35px;
+    font-size: 20px;
+    font-family: NexaB;
+    text-transform: uppercase;
+    border-bottom: 3px solid;
+}
+h2.tituloEsquerda{
+    border-color: #515151;
+}
+h2.tituloDireita{
+    border-color: #f0082e;
+    color: #f0082e;
+}
+
+#boxEsquerda,#boxDireita {
+    margin-top:10px;
+}
+
+
+#boxDireita input[type="text"],#boxDireita input[type="password"],#boxEsquerda input[type="text"],#boxEsquerda input[type="password"],input#phConteudo_txtpesqu{
+    margin-top: 8px;
+	padding: 8px;
+	font-family: Nexa;
+	text-transform: uppercase;
+	font-size: 14px;
+	border: solid 1px #ccc;
+	-webkit-transition:border 1s;
+	transition:border 1s;
+
+}
+#boxDireita input[type="text"]:focus,#boxDireita input[type="password"]:focus,#boxEsquerda input[type="text"]:focus,#boxEsquerda input[type="password"]:focus,input#phConteudo_txtpesqu:focus{
+	border: 1px solid #f0082e;
+	outline: 0 none;
+	-webkit-transition: border 1s;
+	transition: border 1s;
+}
+#boxDireita input[type="submit"],#boxEsquerda input[type="submit"], a.btnCancApagar,.btnProd{
+    margin-top: 8px;
+	background-color: #FFF;
+	border: 1px solid #ccc;
+	font-family: NexaB;
+	font-size: 14px;
+	-webkit-transition: 1s;
+	transition: 1s;
+    padding: 8px 0;
+    text-transform:uppercase;
+}
+#boxDireita input[type="submit"]:hover,#boxEsquerda input[type="submit"]:hover, a:hover.btnCancApagar, .btnProd:hover{
+	background-color: #f0f0f0;
+	border: 1px solid #ccc;
+	color: #f0082e;
+	font-family: NexaB;
+	font-size: 14px;
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+
+/*
+    Fim páginas divididas em 2
+*/
+
+.pUp{
+    margin-top:22px;
+}
+
+::-webkit-file-upload-button {
+	padding: 8px;
+	background-color: #FFF;
+	border: 1px solid #ccc;
+    color: #A9ABBE;
+    margin-top:8px;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+	font-family: Nexa;
+	font-size: 14px;
+	-webkit-transition: background-color 0.8s;
+	transition: background-color 0.8s;
+	width: 176px;
+}
+
+::-webkit-file-upload-button:hover {
+    background-color: #eee;
+		-webkit-transition: background-color 0.8s;
+	transition: background-color 0.8s;
+}
+
+
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px white inset;
+}
+.apagarConta{
+   border-top: 1px solid #ccc;
+   margin-top: 8px;
+   padding-top: 12px;
+   text-transform: uppercase;
+}
+.btnsConfApagar {
+    margin-top: 3px;
+}
+
+a.btnCancApagar{
+    color:#000;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+input.btnConfApagar{
+    width:106px;
+    margin-right: -5px;
+}
+a#apagarConta{
+    color:#000;
+    font-family: NexaB;
+    font-size: 14px;
+    margin-bottom: 2px;
+}
+a:hover#apagarConta{
+
+     color: #f0082e;
+}.esqueciSenhaBar a, .termosUso a{
+    margin-top: 13px;
+    margin-bottom: 5px !important;
+    padding-top: 4px;
+    font-family: NexaB;
+    font-size: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    border-left: 2px solid #515151;
+    border-right: 2px solid #515151;
+    -webkit-transition: border 1s, color 1s;
+	transition: border 1s, color 1s;
+}
+.esqueciSenhaBar a:hover, .termosUso a:hover{
+    border-left: 2px solid #f0082e;
+      border-right: 2px solid #f0082e;
+    -webkit-transition: border 1s, color 1s;
+	transition: border 1s, color 1s;
+}
+.aindaNCad{
+    border-top:1px solid #ccc;
+    margin-top:8px;
+    padding-top: 20px;
+}
+.margemNCad{
+  
+}
+.aindaNCad p{
+    font-size: 14px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: NexaB;
+}
+.termosUsoAcc{
+    border-top: 1px solid #ccc;
+    margin-top: 8px;
+    padding-top: 8px;
+    text-align: center;
+}
+
+.cadSex{
+    border: 1px solid #ccc;
+    padding: 8px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-family: Nexa;
+    color: #999999;
+
+}
+.opSex input{
+    margin:0 15px;
+}
+.opSex label{
+    margin-left: -10px;
+    margin-right: 6px;
+}
+.anuncios{
+	margin-top: 20px;
+	border-bottom: 1px solid #ccc;
+}
+
+.imgAnuncio{
+
+}
+
+/*
+    Icones no cadastro
+*/
+.iconeSenhaDiferente,.iconeEmailInvalido,.iconeSenhaForca{
+    color: #f0082e;
+    opacity: 0.3;
+    padding:5px;
+    -webkit-transition: opacity 0.6s;
+	transition: opacity 0.6s;
+}
+
+.iconeSenhaDiferente:hover, .iconeEmailInvalido:hover,.iconeSenhaForca:hover{
+    opacity: 0.8;
+    -webkit-transition: opacity 0.6s;
+	transition: opacity 0.6s;
+}
+
+
+.uk-icon-info-circle.uk-icon-small.iconeSenhaDiferente,.uk-icon-info-circle.uk-icon-small.iconeEmailInvalido,.uk-icon-info-circle.uk-icon-small.iconeSenhaForca {
+    margin-top: -31px;
+    margin-left: 465px;
+}
+
+
+.iconMeusProd{
+    padding-right: 6px;
+}
+
+
+.tituloDireitaI input[type="submit"]{
+    background: #fff;
+    border: 0;
+    font-family: NexaB;
+    font-size: 14px;
+    -webkit-transition: color 0.6s;
+	transition: color 0.6s;
+}
+.tituloDireitaI input[type="submit"]:hover {
+    color: #f0082e;
+    -webkit-transition: color 0.6s;
+	transition: color 0.6s;
+}
+
+.tituloDireitaI input[type="text"]{
+    font-family: Nexa;
+    text-transform: uppercase;
+    font-size: 14px;
+    border: 0;
+    width: 96%;
+    outline: 0 none;
+}
+
+.uk-table thead{
+    font-family: NexaB;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.editBtn{
+    font-family: NexaB;
+}
+
+input.btnExProd{
+    margin-top: 8px;
+	background-color: #FFF;
+	border: 1px solid #ccc;
+	font-family: NexaB;
+	font-size: 14px;
+	-webkit-transition: 1s;
+	transition: 1s;
+    padding: 8px 10px;
+    text-transform:uppercase;
+}
+input.btnExProd:hover{
+	background-color: #f0f0f0;
+	border: 1px solid #ccc;
+	color: #f0082e;
+	font-family: NexaB;
+	font-size: 14px;
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+
+div#mceu_13,div#mceu_35 {
+    margin-top: 15px;
+   margin-bottom: 5px;
+    width: 100%; 
+}
+
+
+
+@media (max-width: 1220px){
+
+.uk-icon-info-circle.uk-icon-small.iconeSenhaDiferente,.uk-icon-info-circle.uk-icon-small.iconeEmailInvalido {
+    margin-left: 375px;
+}
+
+}
+
+.tituloAnuncio{
+	text-transform: uppercase;
+	font-family: NexaB;
+	font-size: 18px;
+	background-color:#f0f0f0;
+	border:1px solid #ccc;
+	border-left:0;
+	padding: 12px 15px;
+	margin-bottom: 8px;
+}
+.descricaoAnuncio{
+	text-transform: uppercase;
+	font-family: Nexa;
+	font-size: 17px;
+	line-height: 30px;
+	padding: 12px;
+	margin-bottom: 15px;
+}
+.precoAnuncio{
+	padding-left: 12px;
+	font-family: NexaB;
+	font-size: 22px;
+	text-transform: uppercase;
+	color: #f0082e;
+}
+
+.btnMaisAnuncio{
+	text-align: right;
+	text-transform: uppercase;
+	font-size: 22px;
+	font-family: NexaB;
+	color:#515151;
+	padding-right: 12px;
+}
+
+.categorias{
+	margin: 20px 0;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-family: NexaB;
+}
+
+.categorias a{
+	padding: 10px 10px 6px;
+	text-align: center;
+}
+
+a.CatTipos{
+	text-align: right !important;
+	border-bottom: 3px solid #515151;
+}
+a.CatTipos{
+	color: #515151;
+}
+
+a.CatAudios,a.CatProgramas, a.CatVideos{
+	border-bottom: 3px solid #f0082e;
+	-webkit-transition:color 1s, background-color 1s;
+	transition:color 1s, background-color 1s;
+}
+a.CatAudios:hover,a.CatProgramas:hover, a.CatVideos:hover{
+	background-color: #f0082e;
+	color: #fff;
+	-webkit-transition:color 1s, background-color 1s;
+	transition:color 1s, background-color 1s;
+}
+
+
+a.CatImagens, a.CatTextos, a.CatOutros{
+	border-bottom: 3px solid #515151;
+	-webkit-transition:color 1s, background-color 1s;
+	transition:color 1s, background-color 1s;
+}
+a.CatImagens:hover, a.CatTextos:hover, a.CatOutros:hover{
+	background-color: #515151;
+	color: #fff;
+	-webkit-transition:color 1s, background-color 1s;
+	transition:color 1s, background-color 1s;
+}
+
+
+footer{
+	border-top: 2px solid #f0082e;
+	background-color: #f0f0f0;
+	width: 100%;
+	margin-top: 40px;
+	padding: 10px 0;
+    min-height: 200px;
+}
+
+#conteudoCaixa{
+    margin-top: 30px;
+}
+.cabecalhoCont{
+    font-size: 18px;
+    font-family: NexaB;
+    color: #515151;
+    padding: 8px;
+    background-color: #f0f0f0;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+    .cabecalhoCont h2 {
+        margin: 4px 10px;
+        font-family: NexaB;
+    }
+
+
+
+#boxTipoAqruivo{
+    line-height: 20px;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+    font-weight: bolder;
+}
+
+p {
+	line-height:100%;
+	} 
+
+#venderSelTipo{
+    margin-top: 5px;
+}
+
+
+.linkTipo {
+    border: 1px solid #ccc;
+    background: #f5f5f5;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 20px;
+    border-radius: 5px;
+    -webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+.linkTipo:hover{
+    opacity: 0.7;
+    -webkit-transition: 0.5s;
+	transition: 0.5s;
+}
+
+.imgTipos{
+    padding: 15px 0;
+}
+
+.textoTipos{
+    border-radius:0 0 5px 5px;
+    border-top: 1px solid #ccc;
+    background:#FFF;
+    padding: 10px;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight:bolder;
+}
+
+#selecionarTipo {
+    font-size: 14px;
+    padding: 8px 35px;
+    border: 1px solid #ccc;
+    margin-top: -6px;
+    border-top: 0;  
+    border-radius: 0 0 5px 5px;
+}
+
+
+
+option {
+    padding: 12px;
+    padding-right: 80px;
+    text-transform: uppercase;
+    font-size: 17px;
+    font-family: Nexa;
+}
+
+select.listCats {
+    width: 380px;
+    margin-top:10px;
+    margin-left: 10px;
+    min-height: 400px;
+    padding-left:0;
+    border: 1px solid #ccc;
+}
+
+
+select.listCats::-webkit-scrollbar-track, select.listCatsLat::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 4px #f5f5f5;
+    border-left:1px solid #ccc; 
+	background-color: #F5F5F5;
+}
+
+select.listCats::-webkit-scrollbar,select.listCatsLat::-webkit-scrollbar
+{
+	width: 12px;
+	background-color: #F5F5F5;
+}
+
+select.listCats::-webkit-scrollbar-thumb,select.listCatsLat::-webkit-scrollbar-thumb
+{
+	-webkit-box-shadow: inset 0 0 4px #f0082e;
+	background-color: #D62929;
+}
+
+#imgAnuncioApp,#imgAnuncioAppPequeno{
+    height:100%;
+    padding-top: 15px;
+    border-top: 1px solid #ccc;
+    margin-top: 15px;
+}
+#imgAnuncioAppPequeno{
+    height: auto;
+}
+
+.selCat {
+    font-size: 14px;
+    
+}
+
+#InfoUser {
+
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: Nexa;
+    font-size: 30px;
+    text-transform:uppercase;
+   
+
+}
+
+#InfoUser img{
+
+    border: 1px solid #515151;
+    border-bottom: 2px solid #f0082e;
+    border-radius: 4px; 
+
+}
+
+#statususer{
+
+    float: right;
+    font-family: Nexa;
+    font-size: 18px;
+
+}
+
+.imgProdTPerfil{
+
+    height: 16px;
+    max-width: 190px;
+    max-height: 140px;
+    border-bottom: 2px solid #515151;
+    
+    
+}
+.imgAtualLabel{
+    margin-top:8px;
+}
+
+.imgEditarProd{
+    margin-top:8px;
+
+}
+
+img#phConteudo_img {
+    height: 100%;
+}
+#ProdUserPerfil h1{
+
+    font-size: 20px; 
+    font-family:NexaB;
+    margin-left:30px;
+    margin-top:10px;
+
+}
+
+.prod {
+
+    font-family: NexaB;
+    margin-right: 10px;
+    float: left;
+    border: 2px solid #515151;
+    border-bottom: 2px solid #f0082e;
+    border-radius: 6px; 
+}
+
+.padlink {
+
+    text-align:center;
+    font-family:Nexa;
+
+}
+
+#maisprod{
+    
+    float:right;
+    margin-top: 20px;
+    text-align:center;
+    font-family:Nexa;
+    font-size: 18px;
+
+}
+
+#precoArquivo{
+
+    font-size: 20px;
+    color: #f0082e;
+
+}
+
+#infoProduto{
+
+    float:inherit;
+}
+.linkDistribuidor {
+    color: #f0082e;
+}
+
+
+.tituloDivisao{
+	padding: 7px 10px;
+	border-left: 5px solid #f11034;
+	margin: 8px 0;
+	font-family: Nexa;
+	font-size: 18px;
+    text-transform: uppercase !important;
+}
+
+.lerMaisDiv{
+
+	float: right;
+    margin-bottom: -2px;
+
+}
+
+.lerMaisDiv a:hover{
+	text-decoration: none;
+
+}
+
+.linhaDivisao{
+	border-bottom: solid 1px #ccc;
+	margin-bottom: 10px;
+}
+
+.margemBaixoDivisao{
+	margin-bottom: 25px;
+
+}
+
+.tituloProd {
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+    background: #fff;
+    padding: 12px 3px;
+    border: 1px solid #ccc;
+    border-top: 0;
+}
+
+.precoProd {
+    font-size: 18px;
+    color: #f11034;
+    padding: 10px 0;
+    text-align: center;
+    background: #f5f5f5;
+    border: 1px solid #ccc;
+    border-top: 0;
+    
+    margin-bottom: 20px;
+}
+
+.captcha{
+    margin-top: 10px;
+}
+
+.imgCap{
+    float:left;
+    border: 1px solid #ccc;
+    text-align: center;
+
+}
+.relCap{
+    margin-left: 10px;
+    margin-top: 32px;
+    float: left;
+    width: 28px;
+}
+
+.btnCap{
+    width:140px;
+    margin-left: 30px;
+    margin-top: 27px !important;
+
+}
+
+.forcaSenha1,.forcaSenha2,.forcaSenha3,.forcaSenha4{
+    border-top: 2px solid #f0082e;
+
+}
+section.dicaSenha{
+    border: 1px solid #ccc;
+    padding: 10px 25px 0px;
+    margin-top:8px;
+}
+    section.dicaSenha h4 {
+    color: #f0082e;
+    text-transform:uppercase;
+    margin-bottom: -5px;
+    }
+
+
+h4.esqueciTitulo {
+        color: #f0082e;
+        margin-top: 15px;
+        text-transform: uppercase;
+        border-top: 1px solid #ccc;
+        padding-top:15px;
+        margin-bottom: -2px;
+        
+    }
+
+div#imgTelaProdutosComp {
+    border: 1px solid #ccc;
+    margin-left: 10px;
+    padding-left: 0px;
+    background: #f0f0f0;
+    padding-right: 15px;
+}
+h3.tituloCompra{
+    text-transform:uppercase;
+}
+.infoCompra{
+    width: 100%;
+}
+
+.saldoDispL,.valProdL,.novoSaldoL,.saldoDispP,.valProdP,.novoSaldoP,.lblNovoSaldoP,.lblNovoSaldoN,.pnlConfCompra,.pnlSaldoInsuficiente {
+    font-size: 15px;
+    text-transform: uppercase;
+    margin:5px 0;
+}
+.linhaDivCompra{
+    margin: 10px 0;
+}
+
+.erroBd{
+    text-align:center;
+    margin-top: 30px;
+}
+
+
+.linkCred {
+    color:#000;
+    font-weight:bolder;
+	-webkit-transition: color 1s;
+	transition: color 1s;
+}
+	
+.linkCred:hover{
+	-webkit-transition: color 1s;
+	transition: color 1s;
+    color:#f0082e;
+}
+  .hiddencol
+  {
+    display: none;
+  }
+
+  select#phConteudo_ddlTipoTrans {
+    padding: 3px 0;
+}

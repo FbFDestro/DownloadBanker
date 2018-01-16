@@ -1,0 +1,901 @@
+c:\users\aluno\documents\visual studio 2015\Projects\DownloadBanker\DownloadBanker\bin\Debug\DownloadBanker.exe
+c:\users\aluno\documents\visual studio 2015\Projects\DownloadBanker\DownloadBanker\bin\Debug\DownloadBanker.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+c:\users\aluno\documents\visual studio 2015\Projects\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+c:\users\aluno\documents\visual studio 2015\Projects\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.exe
+c:\users\aluno\documents\visual studio 2015\Projects\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.pdb
+D:\Nova pasta\Técnico\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.exe
+D:\Nova pasta\Técnico\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.pdb
+D:\Nova pasta\Técnico\DownloadBanker\DownloadBanker\bin\Debug\DownloadBanker.exe
+D:\Nova pasta\Técnico\DownloadBanker\DownloadBanker\bin\Debug\DownloadBanker.pdb
+D:\Nova pasta\Técnico\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+D:\Nova pasta\Técnico\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+D:\Nova pasta\Técnico\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+D:\Nova pasta\Técnico\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+D:\Nova pasta\Técnico\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+D:\Nova pasta\Técnico\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\aluno\Downloads\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\User\Desktop\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\Nova pasta\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\ALUNOS\Downloads\DownloadBanker 16-09\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\DownloadBanker 21-09\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 21-09\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 23-09\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 23-09\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\DownloadBanker 25-09\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 25-09\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCep.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 26-09\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCep.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 28-09\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCep.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCep.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 28-09\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCep.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\Aluno.ETEP\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCep.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\User\Desktop\DownloadBanker 02-10\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCep.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-10\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\User\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\aluno\Desktop\DownloadBanker 10-10\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+D:\Nova pasta\Tecnico\TI\Software\DownloadBanker 17-10\DownloadBanker 17-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+D:\Nova pasta\Tecnico\TI\Software\DownloadBanker 17-10\DownloadBanker 17-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+E:\Nova pasta\Tecnico\TI\Software\DownloadBanker 17-10\DownloadBanker 17-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+E:\Nova pasta\Tecnico\TI\Software\DownloadBanker 17-10\DownloadBanker 17-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 19-10\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\User\Desktop\DownloadBanker 21-10\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\User\Desktop\DownloadBanker 23-10\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+E:\Nova pasta\Tecnico\TI\Software\DownloadBanker 24-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+E:\Nova pasta\Tecnico\TI\Software\DownloadBanker 24-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\TEMP.ETEP\Desktop\DownloadBanker 27-10\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\User\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\aluno\Desktop\DownloadBanker 28-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\User\Desktop\DownloadBanker 31-10\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\ALUNOS\Desktop\DownloadBanker 03-11\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\ALUNOS\Desktop\DownloadBanker 03-11\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 04-11\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 04-11\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\ALUNOS\Desktop\DownloadBanker 06-11\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\TEMP.ETEP.001\Desktop\DownloadBanker 07-11\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\aluno\Desktop\DownloadBanker 09-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 - Aula ana paula\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\User\Desktop\DownloadBanker 10-11 dps aula\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\ALUNOS\Desktop\DownloadBanker 11-11 antes aula\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\aluno\Desktop\DownloadBanker 11-11  aula\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\User\Desktop\DownloadBanker 12-11  aula mateus\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\bin\Debug\MySql.Data.dll
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\Julio Cesar\Desktop\aaa\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmBackUp.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\Fabio\Desktop\THEEEE\DownloadBanker 14-11 mateus\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.exe
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.pdb
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\bin\Debug\DownloadBanker.exe
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\bin\Debug\DownloadBanker.pdb
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmAdminPrincipal.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmBackUp.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmBuscaCEP.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmEsqueceuSenha.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmMudarSenha.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminCadastro.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminClientes.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarFunc.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminEditarPerfil.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncCadastro.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminProdutos.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAuditoria.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncClientes.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncEditarPerfil.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncPrincipal.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaAdminFuncLista.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaFuncProdutos.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaGerarQRCode.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaLogin.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaPergRespSecreta.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTesteIP.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.Properties.Resources.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.frmTelaSplash.resources
+C:\Users\Fabio\Desktop\THEEEE\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.csproj.GenerateResource.Cache
+E:\FABIO\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.exe
+E:\FABIO\PROGRAMA\DownloadBanker\DownloadBanker\obj\Debug\DownloadBanker.pdb
