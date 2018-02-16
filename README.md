@@ -1,5 +1,5 @@
 # DownloadBanker-TCC-2016
-Online store of authoral digital content.
+Online store of authorial digital content.
 TCC 2016 - ETEP //  Website - Program - Android APP
 
 This is the final project of my technical course and involves skills in C#, ASP.NET, MySQL, Java (for the Android application), Html, Css and some Javascript.
